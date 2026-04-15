@@ -1,2 +1,0 @@
-# ECHOsite
-echo first chapter
